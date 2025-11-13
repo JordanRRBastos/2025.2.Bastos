@@ -2,7 +2,9 @@
 # 📚 Documentação Técnica: Power BI & Machine Learning
 
 Este documento contém todos os scripts e fórmulas utilizados no desenvolvimento deste projeto. Abaixo estão detalhadas as Medidas DAX, Colunas Calculadas, transformações no Power Query (Linguagem M) e o script Python utilizado para a integração do modelo de Machine Learning.
+
 OBS: lembrando que necessita de adaptabilidade para replicar ele por conta dos atributos que colunas que voce utilizar.
+
 -----
 
 ## 📊 1. Medidas DAX (Measures)
